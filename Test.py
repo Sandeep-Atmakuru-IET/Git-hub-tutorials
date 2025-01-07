@@ -1,2 +1,10 @@
 print("changes made by Sandeep")
-print("changes made by me")
+print("Changes made by vamshi")
+
+
+def swap(a, b):
+    c = a
+    a = b
+    b = c
+    return a, b
+     
