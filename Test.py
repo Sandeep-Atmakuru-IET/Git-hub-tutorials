@@ -1,5 +1,5 @@
 print("changes made by Sandeep")
-print("Changes made by vamshi")
+
 
 def swap(a, b):
     c = a
@@ -7,4 +7,6 @@ def swap(a, b):
     b = c
     return a, b
 
+
+print("Changes made by vamshi")
 print("Thanks! from sandeep")
