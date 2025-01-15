@@ -7,4 +7,4 @@ def swap(a, b):
     b = c
     return a, b
 
-print("Thanks! from sandeep")
+print("Thanks! from Karthik")
